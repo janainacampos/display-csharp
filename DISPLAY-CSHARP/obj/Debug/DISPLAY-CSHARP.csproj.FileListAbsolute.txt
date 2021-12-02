@@ -1,0 +1,10 @@
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\bin\Debug\DISPLAY-CSHARP.exe.config
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\bin\Debug\DISPLAY-CSHARP.exe
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\bin\Debug\DISPLAY-CSHARP.pdb
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\obj\Debug\DISPLAY-CSHARP.csprojAssemblyReference.cache
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\obj\Debug\DISPLAY_CSHARP.Form1.resources
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\obj\Debug\DISPLAY_CSHARP.Properties.Resources.resources
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\obj\Debug\DISPLAY-CSHARP.csproj.GenerateResource.cache
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\obj\Debug\DISPLAY-CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\obj\Debug\DISPLAY-CSHARP.exe
+C:\Users\janap\source\repos\DISPLAY-CSHARP\DISPLAY-CSHARP\obj\Debug\DISPLAY-CSHARP.pdb
